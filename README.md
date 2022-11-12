@@ -1,4 +1,5 @@
 # SGSSI
+![](https://i.kym-cdn.com/photos/images/original/002/201/915/445)
 # analisisFrecuencias.py:
 Análisis de frecuencias del castellano para descifrar textos.
 # backup.sh:
